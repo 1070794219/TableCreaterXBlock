@@ -1,0 +1,12 @@
+tablecreater/__init__.py
+tablecreater/tablecreater.py
+tablecreater/static/README.txt
+tablecreater/static/css/tablecreater.css
+tablecreater/static/html/tablecreater.html
+tablecreater/static/js/src/tablecreater.js
+tablecreater_xblock.egg-info/PKG-INFO
+tablecreater_xblock.egg-info/SOURCES.txt
+tablecreater_xblock.egg-info/dependency_links.txt
+tablecreater_xblock.egg-info/entry_points.txt
+tablecreater_xblock.egg-info/requires.txt
+tablecreater_xblock.egg-info/top_level.txt
